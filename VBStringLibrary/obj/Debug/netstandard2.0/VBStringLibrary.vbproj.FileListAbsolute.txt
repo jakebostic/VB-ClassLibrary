@@ -1,0 +1,9 @@
+C:\repos\VBClassLibrary\VBStringLibrary\bin\Debug\netstandard2.0\VBStringLibrary.deps.json
+C:\repos\VBClassLibrary\VBStringLibrary\bin\Debug\netstandard2.0\VBStringLibrary.dll
+C:\repos\VBClassLibrary\VBStringLibrary\bin\Debug\netstandard2.0\VBStringLibrary.pdb
+C:\repos\VBClassLibrary\VBStringLibrary\obj\Debug\netstandard2.0\VBStringLibrary.vbprojAssemblyReference.cache
+C:\repos\VBClassLibrary\VBStringLibrary\obj\Debug\netstandard2.0\VBStringLibrary.vbproj.CoreCompileInputs.cache
+C:\repos\VBClassLibrary\VBStringLibrary\obj\Debug\netstandard2.0\VBStringLibrary.AssemblyInfoInputs.cache
+C:\repos\VBClassLibrary\VBStringLibrary\obj\Debug\netstandard2.0\VBStringLibrary.AssemblyInfo.vb
+C:\repos\VBClassLibrary\VBStringLibrary\obj\Debug\netstandard2.0\VBStringLibrary.dll
+C:\repos\VBClassLibrary\VBStringLibrary\obj\Debug\netstandard2.0\VBStringLibrary.pdb
