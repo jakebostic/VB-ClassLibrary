@@ -1,0 +1,17 @@
+C:\repos\VBClassLibrary\VBStringLibraryTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\repos\VBClassLibrary\VBStringLibraryTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\repos\VBClassLibrary\VBStringLibraryTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\repos\VBClassLibrary\VBStringLibraryTest\bin\Debug\netcoreapp2.2\VBStringLibraryTest.deps.json
+C:\repos\VBClassLibrary\VBStringLibraryTest\bin\Debug\netcoreapp2.2\VBStringLibraryTest.runtimeconfig.json
+C:\repos\VBClassLibrary\VBStringLibraryTest\bin\Debug\netcoreapp2.2\VBStringLibraryTest.runtimeconfig.dev.json
+C:\repos\VBClassLibrary\VBStringLibraryTest\bin\Debug\netcoreapp2.2\VBStringLibraryTest.dll
+C:\repos\VBClassLibrary\VBStringLibraryTest\bin\Debug\netcoreapp2.2\VBStringLibraryTest.pdb
+C:\repos\VBClassLibrary\VBStringLibraryTest\bin\Debug\netcoreapp2.2\VBStringLibrary.dll
+C:\repos\VBClassLibrary\VBStringLibraryTest\bin\Debug\netcoreapp2.2\VBStringLibrary.pdb
+C:\repos\VBClassLibrary\VBStringLibraryTest\obj\Debug\netcoreapp2.2\VBStringLibraryTest.vbprojAssemblyReference.cache
+C:\repos\VBClassLibrary\VBStringLibraryTest\obj\Debug\netcoreapp2.2\VBStringLibraryTest.vbproj.CoreCompileInputs.cache
+C:\repos\VBClassLibrary\VBStringLibraryTest\obj\Debug\netcoreapp2.2\VBStringLibraryTest.AssemblyInfoInputs.cache
+C:\repos\VBClassLibrary\VBStringLibraryTest\obj\Debug\netcoreapp2.2\VBStringLibraryTest.AssemblyInfo.vb
+C:\repos\VBClassLibrary\VBStringLibraryTest\obj\Debug\netcoreapp2.2\VBStringLibraryTest.vbproj.CopyComplete
+C:\repos\VBClassLibrary\VBStringLibraryTest\obj\Debug\netcoreapp2.2\VBStringLibraryTest.dll
+C:\repos\VBClassLibrary\VBStringLibraryTest\obj\Debug\netcoreapp2.2\VBStringLibraryTest.pdb
